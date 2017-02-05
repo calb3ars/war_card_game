@@ -27,9 +27,9 @@ class Deck
     @cards.shift
   end
 
-  def return(cards)
-    @cards.concat(cards)
-  end
+  # def return(cards)
+  #   @cards.concat(cards)
+  # end
 end
 #create 52 cards
 #shuffle
